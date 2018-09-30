@@ -1,0 +1,8 @@
+E:\Mediasoft\Projects\Running Projects\VS 2013\AssetManagementVS13_Somoy_Tv\Excel upload vs13\UploadEmployee\UploadEmployee\bin\Debug\UploadEmployee.exe.config
+E:\Mediasoft\Projects\Running Projects\VS 2013\AssetManagementVS13_Somoy_Tv\Excel upload vs13\UploadEmployee\UploadEmployee\obj\Debug\UploadEmployee.Properties.Resources.resources
+E:\Mediasoft\Projects\Running Projects\VS 2013\AssetManagementVS13_Somoy_Tv\Excel upload vs13\UploadEmployee\UploadEmployee\obj\Debug\UploadEmployee.csproj.GenerateResource.Cache
+E:\Mediasoft\Projects\Running Projects\VS 2013\AssetManagementVS13_Somoy_Tv\Excel upload vs13\UploadEmployee\UploadEmployee\bin\Debug\UploadEmployee.exe
+E:\Mediasoft\Projects\Running Projects\VS 2013\AssetManagementVS13_Somoy_Tv\Excel upload vs13\UploadEmployee\UploadEmployee\bin\Debug\UploadEmployee.pdb
+E:\Mediasoft\Projects\Running Projects\VS 2013\AssetManagementVS13_Somoy_Tv\Excel upload vs13\UploadEmployee\UploadEmployee\obj\Debug\UploadEmployee.exe
+E:\Mediasoft\Projects\Running Projects\VS 2013\AssetManagementVS13_Somoy_Tv\Excel upload vs13\UploadEmployee\UploadEmployee\obj\Debug\UploadEmployee.pdb
+E:\Mediasoft\Projects\Running Projects\VS 2013\AssetManagementVS13_Somoy_Tv\Excel upload vs13\UploadEmployee\UploadEmployee\obj\Debug\UploadEmployee.Form1.resources
